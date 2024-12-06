@@ -1,4 +1,4 @@
-import ContactList from './components/ContatctList';
+import ContactList from "./components/ConactList"
 import './App.css'
 
 
